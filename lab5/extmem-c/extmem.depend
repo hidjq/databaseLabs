@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591860118 source:d:\cspace\student\extmem-c\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1308709046 d:\cspace\student\extmem-c\extmem.h
+
